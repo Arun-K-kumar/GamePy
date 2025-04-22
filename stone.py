@@ -33,7 +33,7 @@ def sps():
         if (a==1 and display=="Scissor") or (a==1 and display=="Stone") or (a==3 and display=="Paper"):
             print("***|  You Win  |***")
         elif (a==1 and display=="Stone") or (a==2 and display=="Paper") or (a==3 and display=="Scissor"):
-            print("***|  This is a Draw  |***")
+            print("***|  This is a Tie  |***")
         else:
             print("***|  You Lose  |***")
         line()
