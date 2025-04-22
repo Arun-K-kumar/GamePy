@@ -26,7 +26,7 @@ def sps():
             print("See you  Again")
             break
         elif ValueError:
-            print("Incorrect input you dick in a mouth bitch ")
+            print("Incorrect input ")
         else:
             print("Invalid Input")   
         print( "PC     :"+display)  
