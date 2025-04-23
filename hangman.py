@@ -1,8 +1,8 @@
 def hangman():
        from random import choice
        #Enter any word you like
-       worlit=['god','developer','dinosaur','vivo','school','king','queen','speed']
-       a=choice(worlit)
+       wordlist=['god','developer','dinosaur','vivo','school','king','queen','speed']
+       a=choice(wordlist)
        blank=[]
        word=[]
        count=1
