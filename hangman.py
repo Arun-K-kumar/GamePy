@@ -1,5 +1,7 @@
+ from random import choice
+
 def hangman():
-       from random import choice
+       
        #Enter any word you like
        wordlist=['god','developer','dinosaur','vivo','school','king','queen','speed']
        a=choice(wordlist)
